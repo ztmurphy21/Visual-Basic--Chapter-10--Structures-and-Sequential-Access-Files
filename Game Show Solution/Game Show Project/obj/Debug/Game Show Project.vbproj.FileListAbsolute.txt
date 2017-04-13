@@ -1,0 +1,10 @@
+D:\College\Visual Basic\VB2015\Chap10\Game Show Solution\Game Show Project\bin\Debug\Game Show Project.exe.config
+D:\College\Visual Basic\VB2015\Chap10\Game Show Solution\Game Show Project\bin\Debug\Game Show Project.exe
+D:\College\Visual Basic\VB2015\Chap10\Game Show Solution\Game Show Project\bin\Debug\Game Show Project.pdb
+D:\College\Visual Basic\VB2015\Chap10\Game Show Solution\Game Show Project\bin\Debug\Game Show Project.xml
+D:\College\Visual Basic\VB2015\Chap10\Game Show Solution\Game Show Project\obj\Debug\Game_Show_Project.frmMain.resources
+D:\College\Visual Basic\VB2015\Chap10\Game Show Solution\Game Show Project\obj\Debug\Game_Show_Project.Resources.resources
+D:\College\Visual Basic\VB2015\Chap10\Game Show Solution\Game Show Project\obj\Debug\Game Show Project.vbproj.GenerateResource.Cache
+D:\College\Visual Basic\VB2015\Chap10\Game Show Solution\Game Show Project\obj\Debug\Game Show Project.exe
+D:\College\Visual Basic\VB2015\Chap10\Game Show Solution\Game Show Project\obj\Debug\Game Show Project.xml
+D:\College\Visual Basic\VB2015\Chap10\Game Show Solution\Game Show Project\obj\Debug\Game Show Project.pdb
