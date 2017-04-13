@@ -1,0 +1,10 @@
+D:\College\Visual Basic\VB2015\Chap10\Ebook Solution\Ebook Project\bin\Debug\Ebook Project.exe.config
+D:\College\Visual Basic\VB2015\Chap10\Ebook Solution\Ebook Project\bin\Debug\Ebook Project.exe
+D:\College\Visual Basic\VB2015\Chap10\Ebook Solution\Ebook Project\bin\Debug\Ebook Project.pdb
+D:\College\Visual Basic\VB2015\Chap10\Ebook Solution\Ebook Project\bin\Debug\Ebook Project.xml
+D:\College\Visual Basic\VB2015\Chap10\Ebook Solution\Ebook Project\obj\Debug\Ebook_Project.frmMain.resources
+D:\College\Visual Basic\VB2015\Chap10\Ebook Solution\Ebook Project\obj\Debug\Ebook_Project.Resources.resources
+D:\College\Visual Basic\VB2015\Chap10\Ebook Solution\Ebook Project\obj\Debug\Ebook Project.vbproj.GenerateResource.Cache
+D:\College\Visual Basic\VB2015\Chap10\Ebook Solution\Ebook Project\obj\Debug\Ebook Project.exe
+D:\College\Visual Basic\VB2015\Chap10\Ebook Solution\Ebook Project\obj\Debug\Ebook Project.xml
+D:\College\Visual Basic\VB2015\Chap10\Ebook Solution\Ebook Project\obj\Debug\Ebook Project.pdb
