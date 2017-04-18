@@ -1,0 +1,11 @@
+D:\College\Visual Basic\VB2015\Chap10\Movies Solution\Movies Project\bin\Debug\Movies Project.exe.config
+D:\College\Visual Basic\VB2015\Chap10\Movies Solution\Movies Project\bin\Debug\Movies Project.exe
+D:\College\Visual Basic\VB2015\Chap10\Movies Solution\Movies Project\bin\Debug\Movies Project.pdb
+D:\College\Visual Basic\VB2015\Chap10\Movies Solution\Movies Project\bin\Debug\Movies Project.xml
+D:\College\Visual Basic\VB2015\Chap10\Movies Solution\Movies Project\obj\Debug\Movies_Project.frmMain.resources
+D:\College\Visual Basic\VB2015\Chap10\Movies Solution\Movies Project\obj\Debug\Movies_Project.Resources.resources
+D:\College\Visual Basic\VB2015\Chap10\Movies Solution\Movies Project\obj\Debug\Movies Project.vbproj.GenerateResource.Cache
+D:\College\Visual Basic\VB2015\Chap10\Movies Solution\Movies Project\obj\Debug\Movies Project.exe
+D:\College\Visual Basic\VB2015\Chap10\Movies Solution\Movies Project\obj\Debug\Movies Project.xml
+D:\College\Visual Basic\VB2015\Chap10\Movies Solution\Movies Project\obj\Debug\Movies Project.pdb
+D:\College\Visual Basic\VB2015\Chap10\Movies Solution\Movies Project\obj\Debug\Movies Project.vbprojResolveAssemblyReference.cache
