@@ -1,0 +1,11 @@
+D:\College\Visual Basic\VB2015\Chap10\Bonus Solution\Bonus Project\bin\Debug\Bonus Project.exe.config
+D:\College\Visual Basic\VB2015\Chap10\Bonus Solution\Bonus Project\bin\Debug\Bonus Project.exe
+D:\College\Visual Basic\VB2015\Chap10\Bonus Solution\Bonus Project\bin\Debug\Bonus Project.pdb
+D:\College\Visual Basic\VB2015\Chap10\Bonus Solution\Bonus Project\bin\Debug\Bonus Project.xml
+D:\College\Visual Basic\VB2015\Chap10\Bonus Solution\Bonus Project\obj\Debug\Bonus Project.vbprojResolveAssemblyReference.cache
+D:\College\Visual Basic\VB2015\Chap10\Bonus Solution\Bonus Project\obj\Debug\Bonus_Project.frmMain.resources
+D:\College\Visual Basic\VB2015\Chap10\Bonus Solution\Bonus Project\obj\Debug\Bonus_Project.Resources.resources
+D:\College\Visual Basic\VB2015\Chap10\Bonus Solution\Bonus Project\obj\Debug\Bonus Project.vbproj.GenerateResource.Cache
+D:\College\Visual Basic\VB2015\Chap10\Bonus Solution\Bonus Project\obj\Debug\Bonus Project.exe
+D:\College\Visual Basic\VB2015\Chap10\Bonus Solution\Bonus Project\obj\Debug\Bonus Project.xml
+D:\College\Visual Basic\VB2015\Chap10\Bonus Solution\Bonus Project\obj\Debug\Bonus Project.pdb
